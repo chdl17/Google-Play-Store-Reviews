@@ -1,7 +1,7 @@
 # Google Playstore Reviews Data Analysis Project
 
 
-<img width="1156" alt="Screenshot 2023-08-13 at 7 51 38 PM" src="https://github.com/chdl17/Olympics-DE-Project/assets/120616550/356e8929-5782-47ec-b1d7-e8917bfba580">
+<img width="1156" alt="azure-databricks" src="azure-databricks.jpg">
 
 
 
