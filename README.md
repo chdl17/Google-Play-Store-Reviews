@@ -1,11 +1,16 @@
 # Google Playstore Reviews Data Analysis Project
 
+
+<img width="1156" alt="Screenshot 2023-08-13 at 7 51 38 PM" src="https://github.com/chdl17/Olympics-DE-Project/assets/120616550/356e8929-5782-47ec-b1d7-e8917bfba580">
+
+
+
 ## Introduction
 This project focuses on analyzing Google Playstore reviews data using Azure Databricks. The goal is to gain insights from the data by performing data ingestion, transformation, and analysis using PySpark and SQL queries within a Databricks notebook.
 
 ## Table Of Contents
-1. [Data Ingestion](#dataingestion)
-   - [Cluster Setup](#clustersetup)
+1. Data Ingestion
+   - Cluster Setup
    - Uploading File into DBFS
    - Opening New Notebook and Connecting the File
 
