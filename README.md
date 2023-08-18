@@ -4,8 +4,8 @@
 This project focuses on analyzing Google Playstore reviews data using Azure Databricks. The goal is to gain insights from the data by performing data ingestion, transformation, and analysis using PySpark and SQL queries within a Databricks notebook.
 
 ## Table Of Contents
-1. [Data Ingestion](#data ingestion)
-   - [Cluster Setup]
+1. [Data Ingestion](#dataingestion)
+   - [Cluster Setup](#clustersetup)
    - Uploading File into DBFS
    - Opening New Notebook and Connecting the File
 
